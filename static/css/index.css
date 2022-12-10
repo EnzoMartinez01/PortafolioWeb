@@ -1,0 +1,11 @@
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90%;
+    background-color: white;
+}
+
+.head{
+    width: 100%;
+    background-color: white;
+}
